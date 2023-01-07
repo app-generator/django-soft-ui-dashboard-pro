@@ -39,7 +39,7 @@ if RENDER_EXTERNAL_HOSTNAME:
 # Application definition
 
 INSTALLED_APPS = [
-    'admin_material_pro.apps.AdminMaterialProConfig',
+    'admin_material_pro.apps.AdminSoftProConfig',
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",

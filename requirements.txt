@@ -2,7 +2,9 @@ django
 gunicorn
 python-dotenv
 whitenoise
-git+https://${GITHUB_TOKEN}@github.com/app-generator/priv-django-admin-material-pro
+
+#git+https://${GITHUB_TOKEN}@github.com/app-generator/priv-django-admin-soft-pro
+git+https://github.com/app-generator/priv-django-admin-soft-pro
 
 # psycopg2-binary
 # mysqlclient
