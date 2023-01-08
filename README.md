@@ -1,11 +1,12 @@
-# [Django Soft PRO](https://github.com/app-generator/django-soft-dashboard-pro) `Starter`
+# [Soft Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/)
 
-**Django** starter styled with **Soft Design PRO**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://bit.ly/3fKQZaL)
+**Django** starter styled with **[Soft Design PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/)**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://bit.ly/3fKQZaL)
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
 
-- 👉 [Django Soft PRO](https://django-soft-dashboard-pro.onrender.com) - `LIVE Demo` on Render
+- 👉 [Soft UI Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/) - `Product Page`
+- 👉 [Soft UI Dashboard PRO Django](https://django-soft-ui-dashboard-pro.appseed-srv1.com/) - `LIVE Demo`
 - 🚀 [Support](https://appseed.us/support/) via `Email` & `Discord`
 
 <br />
@@ -31,8 +32,8 @@ The product is designed to deliver the best possible user experience with highly
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/django-soft-dashboard-pro.git
-$ cd django-soft-dashboard-pro
+$ git clone https://github.com/app-generator/django-soft-ui-dashboard-pro.git
+$ cd django-soft-ui-dashboard-pro
 ```
 
 <br />
@@ -105,4 +106,4 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 <br />
 
 ---
-[Django Soft PRO](https://github.com/app-generator/django-soft-dashboard-pro) - Minimal **Django** starter provided by **[AppSeed](https://appseed.us/)**
+[Soft Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
