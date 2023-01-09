@@ -6,7 +6,7 @@ The product is designed to deliver the best possible user experience with highly
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
 
 - 👉 [Soft UI Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/) - `Product Page`
-- 👉 [Soft UI Dashboard PRO Django](https://django-soft-ui-dashboard-pro.appseed-srv1.com/) - `LIVE Demo`
+- 👉 [Soft UI Dashboard PRO Django](https://django-soft-dash-pro.onrender.com) - `LIVE Demo`
 - 🚀 [Support](https://appseed.us/support/) via `Email` & `Discord`
 
 <br />
