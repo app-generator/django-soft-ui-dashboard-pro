@@ -22,6 +22,7 @@ The product is designed to deliver the best possible user experience with highly
 - ✅ `Docker`
 - 🚀 `Deployment` 
   - `CI/CD` flow via `Render`
+  - [Django Soft PRO - Go LIVE](https://www.youtube.com/watch?v=G1OM2L7XK5Y) - `video presentation`  
 
 <br />
 
