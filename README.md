@@ -1,6 +1,6 @@
 # [Soft Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/)
 
-**Django** starter styled with **[Soft Design PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/)**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://bit.ly/3fKQZaL)
+**Django** starter styled with **[Soft Dashboard PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/)**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://bit.ly/3fKQZaL)
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
@@ -19,7 +19,9 @@ The product is designed to deliver the best possible user experience with highly
   - ✅ **Admin section** (reserved for superusers)
   - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
   - ✅ **All Pages** available in for ordinary users 
-- ✅ `Deployment-Ready` for Render 
+- ✅ `Docker`
+- 🚀 `Deployment` 
+  - `CI/CD` flow via `Render`
 
 <br />
 
@@ -101,9 +103,21 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 
 ## Screenshots
 
-@ToDo
+![Django Admin Soft PRO - Main dashboard page, dark-mode ready.](https://user-images.githubusercontent.com/51070104/211251678-0ff9390a-2035-4cb3-b07d-62fa23f908d3.jpg)
+
+<br />
+
+> [Django Admin Soft PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/) - `Automotive Page`
+
+![Django Admin Soft PRO - Automotive page, premium starter by AppSeed & Creative-Tim.](https://user-images.githubusercontent.com/51070104/211251777-1ea7e1d4-b451-48c5-ad3a-164c58b1700c.jpg)
+
+<br />
+
+> [Django Admin Soft PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/) - `Calendar Page`
+
+![Django Admin Soft PRO - Calendar page, premium starter by AppSeed & Creative-Tim](https://user-images.githubusercontent.com/51070104/211251881-748489f7-a6e8-487f-9bd5-c721cc678c88.jpg)
 
 <br />
 
 ---
-[Soft Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
+**[Django Admin Soft PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/)** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
