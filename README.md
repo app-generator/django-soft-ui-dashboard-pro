@@ -102,6 +102,36 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 
 <br />
 
+## Codebase structure
+
+The project is coded using a simple and intuitive structure presented below:
+
+```bash
+< PROJECT ROOT >
+   |
+   |-- core/                            
+   |    |-- settings.py                  # Project Configuration  
+   |    |-- urls.py                      # Project Routing
+   |
+   |-- home/
+   |    |-- views.py                     # APP Views 
+   |    |-- urls.py                      # APP Routing
+   |    |-- models.py                    # APP Models 
+   |    |-- tests.py                     # Tests  
+   |    |-- templates/                   # Theme Customisation 
+   |         |-- includes                # 
+   |              |-- custom-footer.py   # Custom Footer      
+   |     
+   |-- requirements.txt                  # Project Dependencies
+   |
+   |-- env.sample                        # ENV Configuration (default values)
+   |-- manage.py                         # Start the app - Django default start script
+   |
+   |-- ************************************************************************
+```
+
+<br />
+
 ## How to Customize 
 
 When a template file is loaded in the controller, `Django` scans all template directories starting from the ones defined by the user, and returns the first match or an error in case the template is not found. 
