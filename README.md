@@ -26,7 +26,7 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
-![Soft UI Dashboard PRO](https://user-images.githubusercontent.com/51070104/211132481-9a81ef68-42d4-44b3-b7e5-b700a99ef9e0.png)
+![Soft UI Dashboard PRO - Premium Django Starter](https://user-images.githubusercontent.com/51070104/215729645-658632c1-1eec-4abc-baaa-f1d3deca29ad.png)
 
 <br />
 
