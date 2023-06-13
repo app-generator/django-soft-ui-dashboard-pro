@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.7] 2023-06-13
+### Changes
+
+- Update `requirements.txt`
+  - Specify the version for the private package
+
 ## [1.0.6] 2023-01-29
 ### Changes
 
