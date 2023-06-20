@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.8] 2023-06-20
+### Changes
+
+- Bump UI Version, `v1.0.11`
+  - CleanUP MAP Files (JS, CSS)
+
 ## [1.0.7] 2023-06-13
 ### Changes
 
