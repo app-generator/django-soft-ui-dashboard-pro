@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.10] 2023-06-27
+### Changes
+
+- Update `TEMPLATES` dir location
+  - moved in the root of the project
+- Added Sidebar  
+
 ## [1.0.9] 2023-06-27
 ### Changes
 
