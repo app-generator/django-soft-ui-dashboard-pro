@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.9] 2023-06-27
+### Changes
+
+- Bump UI Version, `v1.0.12`
+  - Remove `LOGIN` decorator for all routes 
+
 ## [1.0.8] 2023-06-20
 ### Changes
 
