@@ -1,0 +1,45 @@
+<!--
+=========================================================
+* Material Dashboard 2 PRO - v3.0.5
+=========================================================
+
+* Product Page:  https://www.creative-tim.com/product/material-dashboard-pro 
+* Copyright 2022 Creative Tim (https://www.creative-tim.com)
+* Coded by Creative Tim
+
+=========================================================
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+-->
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+  
+  {% include 'includes/head.html' %}
+
+  {% block extrastyle %}{% endblock extrastyle %}
+</head>
+
+<body class="g-sidenav-show rtl bg-gray-100 {% block body %}{% endblock body %}">
+
+  {% block sidebar %}
+    {% include 'includes/sidebar-rtl.html' %}
+  {% endblock sidebar %}
+
+  <main class="main-content position-relative max-height-vh-100 h-100 border-radius-lg overflow-x-hidden">
+    {% block header %}
+      {% include 'includes/navigation-rtl.html' %}
+    {% endblock header %}
+
+    {% block content %}{% endblock content %}
+  </main>
+
+  {% include 'includes/fixed-plugin.html' %}
+
+  {% include 'includes/scripts.html' %}
+
+  {% block extra_js %}{% endblock extra_js %}
+
+</body>
+</html>
