@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.11] 2023-06-28
+### Changes
+
+- Bump UI Version, `v1.0.13`
+  - Remove Duplicate asset: `nucleo-svg.css` 
+
 ## [1.0.10] 2023-06-27
 ### Changes
 
