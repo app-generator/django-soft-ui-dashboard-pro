@@ -1,6 +1,6 @@
 # [Soft Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/)
 
-**Django** starter styled with **[Soft Dashboard PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/)**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://bit.ly/3fKQZaL).
+Premium **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** crafted on top of **Soft Dashboard PRO**, a premium `Bootstrap 5` KIT from `Creative-Tim`.
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
