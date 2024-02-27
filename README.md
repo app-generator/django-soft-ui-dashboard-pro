@@ -167,6 +167,23 @@ By default, the app redirects guest users to authenticate. In order to access th
 
 <br />
 
+## Start Celery (async task)
+
+- Make sure you have a Redis Server running: `redis://localhost:6379`
+  - `$ redis-cli` and type `ping` 
+- In the base directory inside `tasks_scripts` folder you need to write your scripts file.
+- Run the celery command from the CLI.
+
+```bash
+$ export DJANGO_SETTINGS_MODULE="core.settings"  
+$ celery -A apps.tasks worker -l info -B
+```
+
+- You will see a new route `Apps -> Tasks` in the sidebar.
+- You can start and cancel any task from the UI.
+
+<br />
+
 ## Enable Social Login 
 
 > 👉 **Github Setup** - [Create an OAuth App](https://docs.github.com/en/developers/apps/building-oauth-apps/creating-an-oauth-app)
