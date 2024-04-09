@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.18] 2024-04-09
+### Changes
+
+- Added Gulp Script (for SCSS Compilation)
+
 ## [1.0.17] 2024-03-28
 ### Changes
 
