@@ -1,5 +1,16 @@
 # Change Log
 
+## [1.0.20] 2024-08-11
+### Changes
+
+- Update DataTable Module
+- Update Charts (added filters)
+
+## [1.0.19] 2024-08-04
+### Changes
+
+- Fix #42: Fontawesome link now returning 403 Forbidden
+
 ## [1.0.18] 2024-04-09
 ### Changes
 

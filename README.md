@@ -199,6 +199,33 @@ $ celery -A apps.tasks worker -l info -B
 
 <br />
 
+## Recompile SCSS  
+
+> Tested with `NodeJS v14.0.0`
+
+The SCSS/CSS files used to style the Ui are saved in the `static/assets` directory. 
+In order to update the Ui colors (primary, secondary) this procedure needs to be followed. 
+
+```bash
+$ yarn # install modules
+$ # # edit variables 
+$ vi static/assets/scss/soft-ui-dashboard/custom/_variables.scss 
+$ gulp # SCSS to CSS translation
+```
+
+The `_variables.scss` content defines the `primary` and `secondary` colors: 
+
+```scss
+$primary:       #cb0c9f !default; // EDIT for customization
+$secondary:     #8392AB !default; // EDIT for customization
+$info:          #17c1e8 !default; // EDIT for customization
+$success:       #82d616 !default; // EDIT for customization
+$warning:       #fbcf33 !default; // EDIT for customization
+$danger:        #ea0606 !default; // EDIT for customization
+```
+
+<br />
+
 ## Codebase
 
 The project is coded using a simple and intuitive structure presented below:
