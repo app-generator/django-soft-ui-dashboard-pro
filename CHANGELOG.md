@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.21] 2024-08-13
+### Changes
+
+- Fix #49 - Adding DT Item as Guest - Wrong Redirect
+
 ## [1.0.20] 2024-08-11
 ### Changes
 
