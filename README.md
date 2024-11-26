@@ -24,7 +24,7 @@ The product is designed to deliver the best possible user experience with highly
 - i18n (internationalization) 
 - `Docker`
 
-![Soft Dashboard PRO Django](https://github.com/app-generator/priv-django-soft-ui-dashboard-enh/assets/51070104/108fab39-b351-41c9-b9b0-06e8fdde51f9)
+![Soft Dashboard PRO Django - Premim starter crafted by App-Generator.](https://github.com/user-attachments/assets/ff219c22-7a2a-4f76-8001-0c1f3f3321f8)
 
 <br />
 
