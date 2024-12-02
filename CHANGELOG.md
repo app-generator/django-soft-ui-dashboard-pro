@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.22] 2024-12-02
+### Changes
+
+- Bump UI: Soft Dashboard 1.2.0, release date: `2024-10-25`
+- Update Product Links
+  - 👉 [Django Soft Dashboard PRO](https://app-generator.dev/product/soft-ui-dashboard-pro/django/) - `Product Page`
+  - 👉 [Django Soft Dashboard PRO](https://django-soft-dash-pro.onrender.com/) - `LIVE Demo` 
+  - 👉 [Django Soft Dashboard PRO Documentation](https://app-generator.dev/docs/products/django/soft-ui-dashboard-pro/index.html) - `Complete Information` and Support Links  
+
 ## [1.0.21] 2024-08-13
 ### Changes
 
