@@ -1,5 +1,28 @@
 # Change Log
 
+## [1.0.23] 2025-04-15
+### Changes
+
+- Simple, Easy-to-Extend Codebase
+- [Soft Dashboard](https://app-generator.dev/product/soft-ui-dashboard/) PRO Design Integration 
+- Bootstrap Styling 
+- Dynamic Tables - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
+- Dynamic API - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
+- Charts
+- Session-based Authentication, Password recovery
+- OAuth (GitHub & Google)
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- [Django CLI Package](https://app-generator.dev/docs/developer-tools/django-cli/index.html)
+    - [Commit/rollback Git Changes](https://app-generator.dev/docs/developer-tools/django-cli/git-interface.html)
+    - `Backup & restore DB`
+    - [Interact with Django Core](https://app-generator.dev/docs/developer-tools/django-cli/query-django.html)
+    - `Manage Environment`
+    - `Manage Dependencies`
+- Session-based Authentication, Password recovery
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- Docker, CI/CD for Render
+- [Vite](https://app-generator.dev/docs/technologies/vite/index.html) for assets management 
+
 ## [1.0.22] 2024-12-02
 ### Changes
 

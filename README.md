@@ -1,7 +1,6 @@
 # [Django Soft Dashboard PRO](https://app-generator.dev/product/soft-ui-dashboard-pro/django/)
 
-**Django** starter styled with **[Soft Dashboard PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/)**, a premium `Bootstrap 5` KIT from `Creative-Tim`.
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+**Premium Django Starter** crafted on top of **[Soft Dashboard](https://app-generator.dev/product/soft-ui-dashboard/)**, a Premium `Bootstrap` UI Kit released by [Creative-Tim](https://app-generator.dev/agency/creative-tim/). The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 - 👉 [Django Soft Dashboard PRO](https://app-generator.dev/product/soft-ui-dashboard-pro/django/) - `Product Page`
 - 👉 [Django Soft Dashboard PRO](https://django-soft-dash-pro.onrender.com/) - `LIVE Demo` 
@@ -18,19 +17,24 @@ The product is designed to deliver the best possible user experience with highly
 ## Features
 
 - Simple, Easy-to-Extend Codebase
-- Soft UI Dashboard PRO Design - Full Integration 
-- Bootstrap 5 Styling 
+- [Soft Dashboard](https://app-generator.dev/product/soft-ui-dashboard/) PRO Design Integration 
+- Bootstrap Styling 
+- Dynamic Tables - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-datatables.html)
+- Dynamic API - read [docs](https://app-generator.dev/docs/developer-tools/dynamic-api.html)
+- Charts
 - Session-based Authentication, Password recovery
 - OAuth (GitHub & Google)
 - DB Persistence: SQLite (default), can be used with MySql, PgSql
-- Apps
-  - Charts
-  - Server-Side Datatables
-  - API via DRF
-  - Extended Users Profile
-  - Async Tasks (Celery)
-- Docker 
-- CI/CD integration for Render 
+- [Django CLI Package](https://app-generator.dev/docs/developer-tools/django-cli/index.html)
+    - [Commit/rollback Git Changes](https://app-generator.dev/docs/developer-tools/django-cli/git-interface.html)
+    - `Backup & restore DB`
+    - [Interact with Django Core](https://app-generator.dev/docs/developer-tools/django-cli/query-django.html)
+    - `Manage Environment`
+    - `Manage Dependencies`
+- Session-based Authentication, Password recovery
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- Docker, CI/CD for Render
+- [Vite](https://app-generator.dev/docs/technologies/vite/index.html) for assets management 
 
 ![Django Soft Dashboard PRO - Premium starter powered by Django and Bootstrap 5 - actively supported provided by App-Generator.](https://github.com/user-attachments/assets/828b0f83-1a37-4390-8685-411b4f408cdb)
 
